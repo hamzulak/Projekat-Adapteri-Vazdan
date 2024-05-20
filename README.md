@@ -29,4 +29,4 @@ Ovaj zadatak je radila
 - Ahmed Katica - Full-Stack Developer - 0%
 - Hanan Kulović - Full-Stack Developer - 0%
 - Nejla Hajduković - Full-Stack Developer - 0%
-- Adha Bečić - Full-Stack Developer - 0% // Pitati za prezime 
+- Adha Bečić - Full-Stack Developer - 0%

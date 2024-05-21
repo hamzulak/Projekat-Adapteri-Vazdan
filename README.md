@@ -1,6 +1,7 @@
 # Dobrodošli na informatički repozitorij A-1 razreda.
 
-Ovaj repozitorij je jedan veliki projekat koji sadrži šest "podprojekata". Na svakom projektu radi jedna osoba.
+Ovaj repozitorij je jedan veliki projekat pod imenom "Projekat: Adapteri Vazdan", koji sadrži šest "podprojekata".
+
 
 ## Table of Contents
 
@@ -13,27 +14,35 @@ Ovaj repozitorij je jedan veliki projekat koji sadrži šest "podprojekata". Na 
 
 
 ## Zadatak a
-Ovaj zadatak je radio Ahmed Katica
+Ovaj zadatak je radio Ahmed Katica...
 ## Zadatak b
-Ovaj zadatak je radila Sarah Karamustafić
+Ovaj zadatak je radila Sarah Karamustafić...
 ## Zadatak c
-Ovaj zadatak je radila Adha Bečić
+Ovaj zadatak je radila Adha Bečić...
 ## Zadatak d
-Ovaj zadatak je radila Nejla Hajduković
+Ovaj zadatak je radila Nejla Hajduković...
 ## Zadatak e
-Ovaj zadatak je radila Hanan Kulović
+Ovaj zadatak je radila Hanan Kulović...
 ## Zadatak f
-Ovaj zadatak je radio Mustafa Alijagić   
-
+Ovaj zadatak je radio Mustafa Alijagić...
 
 
 ### Credits:
-- **Professor:** Said Salihefendić
-- **Project Leader:** Hamza Hajlovac
-- **Developers:**
+- **Profesor:** Said Salihefendić
+- **Projektni tim lider:** Hamza Hajlovac
+- **Kolaboratori:**
   - Mustafa Alijagić
   - Sarah Karamustafić
   - Ahmed Katica
   - Hanan Kulović
   - Nejla Hajduković
   - Adha Bečić
+
+### Postotak doprinosa projektu:
+
+- Mustafa Alijagić - %
+- Sarah Karamustafić - %
+- Ahmed Katica - %
+- Hanan Kulović - %
+- Nejla Hajduković - %
+- Adha Bečić - %

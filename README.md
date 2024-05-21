@@ -4,43 +4,33 @@ Ovaj repozitorij je jedan veliki projekat koji sadrži šest "podprojekata". Na 
 
 ## Table of Contents
 
-1. [Zadatak 1](#Zadatak-1)
-2. [Zadatak 2](#Zadatak-2)
-3. [Zadatak 3](#Zadatak-3)
-4. [Zadatak 4](#Zadatak-4)
-5. [Zadatak 5](#Zadatak-5)
-6. [Zadatak 6](#Zadatak-6)
+1. [Zadatak a](#Zadatak-a)
+2. [Zadatak b](#Zadatak-b)
+3. [Zadatak c](#Zadatak-c)
+4. [Zadatak d](#Zadatak-d)
+5. [Zadatak e](#Zadatak-e)
+6. [Zadatak f](#Zadatak-f)
 
 
-
-## ZADATAK 1
-
-Ovaj zadatak je radila
-## ZADATAK 2
-
-Ovaj zadatak je radila
-## ZADATAK 3
-
-Ovaj zadatak je radila
-## ZADATAK 4
-
-Ovaj zadatak je radila
-## ZADATAK 5
-
-Ovaj zadatak je radio
-## ZADATAK 6
-
-Ovaj zadatak je radio
-
-
-
+## Zadatak a
+Ovaj zadatak je radio Ahmed Katica
+## Zadatak b
+Ovaj zadatak je radila Sarah Karamustafić
+## Zadatak c
+Ovaj zadatak je radila Adha Bečić
+## Zadatak d
+Ovaj zadatak je radila Nejla Hajduković
+## Zadatak e
+Ovaj zadatak je radila Hanan Kulović
+## Zadatak f
+Ovaj zadatak je radio Mustafa Alijagić   
 
 
 
 ### Credits:
 - **Professor:** Said Salihefendić
 - **Project Leader:** Hamza Hajlovac
-- **Full-Stack Developers:**
+- **Developers:**
   - Mustafa Alijagić
   - Sarah Karamustafić
   - Ahmed Katica
